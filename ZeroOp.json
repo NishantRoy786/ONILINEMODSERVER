@@ -1,7 +1,7 @@
 {
     "serverstatus":"false",
     "noticemode":"false",
-    "dataclearmode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":"",
     "libs":"https://github.com/NishantRoy786/ONILINEMODSERVER/raw/refs/heads/main/libZeroOp.zip",
