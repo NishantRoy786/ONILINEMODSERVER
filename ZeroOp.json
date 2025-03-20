@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":"",
     "libs":"https://github.com/NishantRoy786/ONILINEMODSERVER/raw/refs/heads/main/libZeroOp.zip",
-    "notice_title":"Welcome ©SharpEngine Users",
+    "notice_title":"UNDER TESTING ©SharpEngine",
     "notice_body":""
 }
